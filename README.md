@@ -13,6 +13,8 @@ The necessary connections for the AVR microcontroller to be functioning correctl
 DIP Switches for PORTs ON.
 Jumpers at connectors J12 and J13 (for the correct function of TWI)
 Jumpers at connectors at J19, connecting the pins of the LCD screen with those of PORT Expander.
+Connection with cables of the following: PD2, PD3 and Ground of the 2 boards.
+
 
 Software Used: MPLAB X IDE v6.20
 
