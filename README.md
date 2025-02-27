@@ -14,6 +14,8 @@ DIP Switches for PORTs ON.
 Jumpers at connectors J12 and J13 (for the correct function of TWI)
 Jumpers at connectors at J19, connecting the pins of the LCD screen with those of PORT Expander.
 
+Software Used: MPLAB X IDE v6.20
+
 Students involved:
 Παναγιώτης Κατσαλίφης, Φίλιππος Αλέξανδρος Πλουμής, Οδυσσέας Τσουκνίδας
 
