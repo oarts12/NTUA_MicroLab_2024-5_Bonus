@@ -4,7 +4,7 @@ Bonus Exercise for the undergraduate course Microprocessors Laboratory (Semester
 
 A simulation of a USB connection with 2 AVR microcontrollers (using ntuAboard_G1), with one being the host and the other simulating a Keyboard.
 
-This project was at first meant to be a USB driver for AVR, where we were supposed to communicate with an actual keyboard. We failed that task, most likely (according to our professor) because we were sending pulses with applitude of 5 Volts, instead of 3.3Volt.
+This project was at first meant to be a USB driver for AVR, where we were supposed to communicate with an actual keyboard. We failed that task, most likely (according to our professor) because we were sending pulses with applitude of 5 Volt, instead of 3.3 Volt.
 
 The simulation, which we then set out to implement is also unfinished. The code is correct for the higher level functions (converting ASCII to J/Ks and vice versa) but the code for transmitting information from one board to another IS NOT implemented correctly.
 
