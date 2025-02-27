@@ -15,9 +15,7 @@ Jumpers at connectors J12 and J13 (for the correct function of TWI)
 Jumpers at connectors at J19, connecting the pins of the LCD screen with those of PORT Expander.
 
 Students involved:
-Παναγιώτης Κατσαλίφης\n
-Φίλιππος Αλέξανδρος Πλουμής
-Οδυσσέας Τσουκνίδας
+Παναγιώτης Κατσαλίφης, Φίλιππος Αλέξανδρος Πλουμής, Οδυσσέας Τσουκνίδας
 
 Supervisor:
 Γιώργος Αλεξανδρής
